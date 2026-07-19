@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.0",
-    "notes":  "Mise a jour location-materiel 0.3.0",
-    "pub_date":  "2026-07-19T21:41:27Z",
+    "version":  "0.3.1",
+    "notes":  "Mise a jour location-materiel 0.3.1",
+    "pub_date":  "2026-07-19T22:10:48Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTWYzbHlRVjlTYXc0aFZyeHhPU3I1NDN1Q3M0TEoySTRmajNaOGJmRkNnTEJ2U21ibGt5dFhFeUYwdjBGR2JYWko2ZUxpNTFnTkhwV0dxKzJLc3BQTGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk3MjY2CWZpbGU6RGlnaSsgTG9jYXRpb25fMC4zLjBfeDY0LXNldHVwLmV4ZQpncUpOZTBrSnRVYSt4c1h6Qnllb3FtSUJ3cWdNNUVvc0d6WXdya0ZOdE1XbWpVZU5ZeTc0RXdmMk5pelRldHBwRFA4aTN0QU9Zdys2VkIyMExteENCZz09Cg==",
-                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/location-materiel-v0.3.0/location-materiel_0.3.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTVNMQ3hKSVptQ2ljaEZITlJBTVQybUVkb2dvWWN1ZC9PYUZTZkZQWGE5TE1wbVl4bFV6VEF2LzZjQzN5SjJ5N0U5WTBnSGdMMmJsSVJmdnVvM1ZLL1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk5MDMwCWZpbGU6RGlnaSsgTG9jYXRpb25fMC4zLjFfeDY0LXNldHVwLmV4ZQpyVnFjdjhTcjgwUjUrRDFvTDhjbE5NeXBiZ3N6Z3NGR3R5MnF0cFNwK2dTYWFaaS9NZE5xeU9ZRmNwN3JWYytMYnNFdWRKalI2Qm5sMG8rWTlhckNDZz09Cg==",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/location-materiel-v0.3.1/location-materiel_0.3.1_x64-setup.exe"
                                          }
                   }
 }
