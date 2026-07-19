@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Mise a jour auto-ecole 0.3.0",
+    "pub_date":  "2026-07-19T21:33:56Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTVFsWmRjdzlSZThPc25IN3d6VmlTKzd6SkpRazdPVnlCL2pkL3oyUHZyTEowREU2TUszS0tYTzYzUXkrT3VaNnB0cVVXcGFQVVVDcy82NlFLZThKcXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk2MDYyCWZpbGU6RGlnaSsgQXV0by3DqWNvbGVfMC4zLjBfeDY0LXNldHVwLmV4ZQpWZkxqbmEza0FIb2FSWlN4bFpQNVJKU2M4MVBxOHFiYlNBY1FmNVh6NnFBZVpwM0dEdEdZYWtlaUJLelVUUTNMZ1BEUGl4QmgyYVlJL2c0YVN0bTVCdz09Cg==",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/auto-ecole-v0.3.0/auto-ecole_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}
