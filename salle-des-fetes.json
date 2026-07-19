@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Mise a jour salle-des-fetes 0.3.0",
+    "pub_date":  "2026-07-19T21:33:42Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTVI5bGlBa05NSUJjc0h1RGFVN3hYQ1c2Sm54aEJpWkNodHFlNllLK2JWakU0RnA4ak9pbmN0ZmNJZGJXN254WHQyYTFUeVZaU05xdlk4YnE2NkxSZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk1MTQ2CWZpbGU6RGlnaSsgU2FsbGUgZGVzIGbDqnRlc18wLjMuMF94NjQtc2V0dXAuZXhlClhzKzhEd3N5WGgzazl5WFd2blF2MWVFTFhWVW9mNUwxYmlWeUU4R0U0eEtOMU9EQ2pQUDAybUJKSmZLR2V6L0IvR2tiekxyWG0wSWkvcHAybVJQQ0JRPT0K",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/salle-des-fetes-v0.3.0/salle-des-fetes_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}
