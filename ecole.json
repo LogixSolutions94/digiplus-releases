@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Mise a jour ecole 0.3.0",
+    "pub_date":  "2026-07-19T21:34:04Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTVE4TnNIMlBiL204anZyd1didWlMS0JFd0I2VEdPQ3dmNlAyYVB6SU9aZTdvMndESE5NM1BTRDREcW1IbUpuUkR5eHJZSDJQWWUzQ2JnTEJoQUZIOEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk2NTEyCWZpbGU6RGlnaSsgw4ljb2xlXzAuMy4wX3g2NC1zZXR1cC5leGUKMS9YM1UzVm96b1ByMERjUW84NDMvUzgxQWtRRWdxeGFDeTFLNUhpbzJjOHQ3TkVvRmphSElOQkFaOHRkYVRhYzNZT28wei90RWRHWENEeWpvOExxQ0E9PQo=",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/ecole-v0.3.0/ecole_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}
