@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Mise a jour location-materiel 0.3.0",
+    "pub_date":  "2026-07-19T20:41:37Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTVJLZGVabkdDZ0hwWWZBZnFGenlQcnE0THViWjZQa1RXQ1JpeVd4UlY2VThwWVl3Mk1wdjFST2RxdHRuTlN4Y1ZGVUdkZU1qQ09oVWovWlUwdWZ1WHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDkzNjQ4CWZpbGU6RGlnaSsgTG9jYXRpb25fMC4zLjBfeDY0LXNldHVwLmV4ZQpEelZ3RVpnUXZ3ZllKNGExdXNtY3ZHdGVOdGN1Wm10cHNHcUs5YnV3QkdTalNGbTUydjRJSmgyNUREOC9oZlk2ZWEya2NCRmQ2WDkzN1h6RStsbXdDQT09Cg==",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/location-materiel-v0.3.0/location-materiel_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}
