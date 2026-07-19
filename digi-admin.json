@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Mise a jour digi-admin 0.3.0",
+    "pub_date":  "2026-07-19T21:33:35Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTVQ0RVd6WEJWdEo1Nm03eVg2VGlRUHBSSHh0VlFXWUxudzI1SlZvQitUbzhVeVR5aUFQcm1SK0dldTErME5HeWJJelpKdVZ2KzdZVmdVelhzeDlvaEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk0Njk0CWZpbGU6RGlnaSBBZG1pbl8wLjMuMF94NjQtc2V0dXAuZXhlCmw5dHB4Y05VRHc1WFNTdFJySnBOUmNrQWtOczJPOWZTQm1uQytLTWk5UVUrRUxIMTh4REpoQnkvZCsvNzhZVEx2ZXRjdFBOcy80S1c3NUJUWHZQeUNBPT0K",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/digi-admin-v0.3.0/digi-admin_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}
