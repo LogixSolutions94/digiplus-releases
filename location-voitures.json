@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Mise a jour location-voitures 0.3.0",
+    "pub_date":  "2026-07-19T21:33:49Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUdWMEY0NmlSTWNmYjJBRWJzWjdVUmxzelVBcnpRTGYzNDNsZWFyV3BBN0F3N0J1NHZLS0RRS0N3QXA0Yzk0Wnc3elByb3ZyOGp1M0J3VWVlT2p2ejZleFIvdGhFR3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDk1NjA2CWZpbGU6RGlnaSsgTG9jYXRpb24gdm9pdHVyZXNfMC4zLjBfeDY0LXNldHVwLmV4ZQo2eTNyUy9kbzMxdlhqT3RFWXdWVlFIV3dIVzlnYlRMeUs5QWxXSTJ1MGlMcFRWQVovQWZRMG1laWFLbjUveG52QUxFMkJHWEwrWElPb3QrY1ZvdEJEZz09Cg==",
+                                             "url":  "https://github.com/LogixSolutions94/digiplus-releases/releases/download/location-voitures-v0.3.0/location-voitures_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}
